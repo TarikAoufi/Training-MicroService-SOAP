@@ -4,7 +4,7 @@ Demo d'un Micro-Service qui permet d'exposer des WS basés sur le protocole SOAP
 URL pour tester les WS SOAP (TrainingSoapService & StudentSoapService) :
 	
 	+ Pour gérer les étudiants :  http://localhost:8383/service/StudentWS?wsdl
-	+ Pour gérer les formations : http://localhost:8383/service/TrainingWS?wsdl
+	+ Pour gérer les formations : http://localhost:8383/service/TrainingWS?wsdl  
 
 
 Rappel:	 
