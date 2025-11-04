@@ -12,6 +12,7 @@ Rappel:
 	+ Un client à besoin de WSDL pour consommer un WS SOAP
 	 
 	
-	
+
 	
   
+
