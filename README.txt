@@ -10,9 +10,4 @@ URL pour tester les WS SOAP (TrainingSoapService & StudentSoapService) :
 Rappel:	 
 	+ WSDL : Permet de faire la description du WS (c'est l'interface du WS)	
 	+ Un client à besoin de WSDL pour consommer un WS SOAP
-	 
-	
-
-	
-  
 
